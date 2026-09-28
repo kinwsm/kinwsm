@@ -10,4 +10,4 @@
 
 [看工作流程、使用示例与安装方式](https://github.com/kinwsm/git-project-handoff-skill#readme) · [查看 skill 指令](https://github.com/kinwsm/git-project-handoff-skill/blob/main/SKILL.md)
 
-当前公开版本提供可安装的协作 skill。完整自动交接还需要单独配置 GitHub 连接和本地监听器。
+当前 [V2 可复现工作流](https://github.com/kinwsm/git-project-handoff-skill/releases/tag/v2)包含可安装的 skill、本地监听器、配置与交接模板，以及逐步验收说明。使用者仍需连接自己的 GitHub 与 ChatGPT 账号，并为每个项目配置共享范围。原始说明版保留为 [V1](https://github.com/kinwsm/git-project-handoff-skill/releases/tag/v1)。
