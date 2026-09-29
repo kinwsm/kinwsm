@@ -10,4 +10,4 @@
 
 [看工作流程、使用示例与安装方式](https://github.com/kinwsm/git-project-handoff-skill#readme) · [查看 skill 指令](https://github.com/kinwsm/git-project-handoff-skill/blob/main/SKILL.md)
 
-当前 [v2.0.1 可复现工作流](https://github.com/kinwsm/git-project-handoff-skill/releases/tag/v2.0.1)已按 MIT 开源，包含可安装的 skill、本地监听器、两端指令与配置模板，以及逐步验收说明。Windows/Linux 离线测试和 Windows 真实 Codex 执行验证已通过。使用者仍需连接自己的 GitHub 与 ChatGPT 账号，并为每个项目配置共享范围。原始说明版保留为 [V1](https://github.com/kinwsm/git-project-handoff-skill/releases/tag/v1)。
+当前 [v2.1.0 可复现工作流](https://github.com/kinwsm/git-project-handoff-skill/releases/tag/v2.1.0)按 MIT 开源，包含可安装的 skill、本地监听器、两端指令与配置模板。新增聊天端能力验收、按项目选择模型、消耗回执与故障恢复说明。25 项离线测试在 Windows/Linux 四组环境中通过，Windows 隔离编程验收完成了真实代码修改和六项独立测试。使用者仍需连接自己的 GitHub 与 ChatGPT 账号，并完成各自的远端往返验收。原始说明版保留为 [V1](https://github.com/kinwsm/git-project-handoff-skill/releases/tag/v1)。
